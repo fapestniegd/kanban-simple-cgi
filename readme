@@ -1,0 +1,8 @@
+Split up kanban-simple and chunk out the data parts so we can back them with git/gitweb (and ideally the github api).
+
+ToDo:
+
+partial postback to update on jquery events
+Add github auth 
+Add github API support
+
