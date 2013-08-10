@@ -1,0 +1,10 @@
+        #P .box { background-color: #FFFF00  ; color: #000000;}
+        #P_Q .box { background-color: #F0F0F0; color: #606060;}
+        #D .box { background-color: #FFC300; color: #000000;}
+        #D_Q .box { background-color: #F0F0F0; color: #606060;}
+        #DE .box { background-color: #B5DBFF  ; color: #000000;}
+        #DE_Q .box { background-color: #F0F0F0; color: #606060;}
+        #T .box { background-color: #A5C700; color: #ffffff;}
+        #T_Q .box { background-color: #F0F0F0; color: #606060;}
+        #R .box { background-color: #9CCFFF  ; color: #000000;}
+        #R_Q .box { background-color: #F0F0F0; color: #606060;}
